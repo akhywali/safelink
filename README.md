@@ -1,0 +1,2 @@
+# safelink
+nyimpan safelink post
